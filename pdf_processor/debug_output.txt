@@ -1,0 +1,501 @@
+INFO:__main__:
+=== FONT ANALYSIS ===
+INFO:__main__:Body size: 10.0
+INFO:__main__:Font sizes: min=8.0, max=32.0
+INFO:__main__:
+=== TEXT BLOCKS ON PAGES 1-5 ===
+INFO:__main__:
+Page 1, Y=72.5, Size=16.0, Bold=False
+INFO:__main__:Text: 'Ontario’s Libraries Working Together'
+INFO:__main__:Word count: 4, Ends with colon: False
+INFO:__main__:✓ CLASSIFIED AS: H1
+INFO:__main__:
+Page 1, Y=157.3, Size=32.0, Bold=False
+INFO:__main__:Text: 'RFP: R RFP: R RFP: R RFP: Reeeequest f quest f quest f quest foooor Pr r Pr r Pr r Proposal oposal oposal oposal'
+INFO:__main__:Word count: 25, Ends with colon: False
+INFO:__main__:✗ REJECTED: Too long (25 words > 15)
+INFO:__main__:
+Page 1, Y=244.3, Size=24.0, Bold=False
+INFO:__main__:Text: 'To Present a Proposal for Developing the Business Plan for the Ontario Digital Library'
+INFO:__main__:Word count: 14, Ends with colon: False
+INFO:__main__:✗ REJECTED: No heading characteristics found
+INFO:__main__:
+Page 1, Y=339.1, Size=20.0, Bold=False
+INFO:__main__:Text: 'March 21, 2003'
+INFO:__main__:Word count: 3, Ends with colon: False
+INFO:__main__:✓ CLASSIFIED AS: H1
+INFO:__main__:
+Page 1, Y=694.5, Size=10.0, Bold=False
+INFO:__main__:Text: 'The Ontario Digital Library will make Ontario a better place to study, work and live by ensuring that all Ontario citizens have access to the knowledge and learning supports needed to be life-long learners and effective contributors towards Ontario’s prosperity.'
+INFO:__main__:Word count: 40, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 2, Y=89.1, Size=20.0, Bold=False
+INFO:__main__:Text: 'Ontario’s Digital Library'
+INFO:__main__:Word count: 3, Ends with colon: False
+INFO:__main__:✓ CLASSIFIED AS: H1
+INFO:__main__:
+Page 2, Y=117.6, Size=16.0, Bold=False
+INFO:__main__:Text: 'A Critical Component for Implementing Ontario’s Road Map to Prosperity Strategy'
+INFO:__main__:Word count: 11, Ends with colon: False
+INFO:__main__:✗ REJECTED: No heading characteristics found
+INFO:__main__:
+Page 2, Y=196.0, Size=12.0, Bold=False
+INFO:__main__:Text: 'Summary'
+INFO:__main__:Word count: 1, Ends with colon: False
+INFO:__main__:✓ CLASSIFIED AS: H2
+INFO:__main__:
+Page 2, Y=226.7, Size=11.0, Bold=True
+INFO:__main__:Text: 'The purpose of this Request for Proposal ( RFP ) is to invite firms and/or consultants to present a proposal for developing the business plan for the Ontario Digital Library (ODL). The ODL will deliver high-quality library electronic content to all Ontario residents in order to assist people as they learn, work, and enhance their quality of life. The business plan to be developed is to document and clearly communicate:'
+INFO:__main__:Word count: 70, Ends with colon: True
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 2, Y=302.0, Size=11.0, Bold=False
+INFO:__main__:Text: 'how the ODL will be implemented, including the timeline the financial plan for the implementation the financial plan for the first 2 operating years, including capital and operating costs, revenues, etc. a financial forecast for the succeeding 2 operating years the services and products to be delivered by the ODL how the ODL will operate and be managed following the implementation who will be involved, and what their role/responsibility will be, for both the implementation and operational stages the marketing and communications plan for the ODL'
+INFO:__main__:Word count: 86, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 2, Y=441.1, Size=11.0, Bold=False
+INFO:__main__:Text: 'This business plan must be completed and approved by the ODL Steering Committee no later than September 30, 2003'
+INFO:__main__:Word count: 19, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 2, Y=478.5, Size=11.0, Bold=False
+INFO:__main__:Text: 'Timeline:'
+INFO:__main__:Word count: 1, Ends with colon: True
+INFO:__main__:✗ REJECTED: Keyword 'timeline' but insufficient formatting
+INFO:__main__:
+Page 2, Y=503.0, Size=10.5, Bold=True
+INFO:__main__:Text: 'Those firms/consultants intended to submit a proposal to this RFP must indicate their intention to do so in an e-mail to Michael Ridley ( mridley@uoguelph.ca ) by April 11 th .'
+INFO:__main__:Word count: 31, Ends with colon: False
+INFO:__main__:✗ REJECTED: Too long (31 words > 15)
+INFO:__main__:
+Page 2, Y=540.4, Size=10.8, Bold=True
+INFO:__main__:Text: 'Proposals may be e-mailed, mailed, couriered or faxed to: Larry Moore ( lmoore@accessola.com ), Executive Director, The Ontario Library Association, 100 Lombard St., Suite 303, Toronto, ON  M5C 1M3. Proposals must be received by Noon on Monday, April 21, 2003.'
+INFO:__main__:Word count: 40, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 2, Y=603.0, Size=11.0, Bold=True
+INFO:__main__:Text: 'Those proposals that are short-listed will be invited to discuss their proposal during the week of April 28, 2003 . No presentation will be expected. Firms or consultants invited to an interview will be expected to discuss the project and their approach with the selection committee .'
+INFO:__main__:Word count: 47, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 2, Y=665.5, Size=11.0, Bold=True
+INFO:__main__:Text: 'Contracts with the firm/consultant will be signed the week of May 5, 2003 with the work to commence as soon as possible thereafter.'
+INFO:__main__:Word count: 23, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 2, Y=731.2, Size=8.0, Bold=True
+INFO:__main__:Text: 'RFP: To Develop the Ontario Digital Library Business Plan March 2003 2222'
+INFO:__main__:Word count: 12, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 3, Y=70.3, Size=11.0, Bold=False
+INFO:__main__:Text: 'Please note that we reserve the right not to select any of the submitted proposals and may seek further response to these Terms of Reference.'
+INFO:__main__:Word count: 25, Ends with colon: False
+INFO:__main__:✗ REJECTED: Too long (25 words > 15)
+INFO:__main__:
+Page 3, Y=107.6, Size=10.7, Bold=True
+INFO:__main__:Text: 'If you require further information or have any questions, please contact Michael Ridley by e- mail ( mridley@uoguelph.ca ) only by 3:00 p.m. on Friday April 18th . All questions and responses will be shared with those who have indicated that they will be submitting a proposal. Please note, that firms/consultants who have not indicated in an e-mail to Michael Ridley by April 11 th that they will be submitting a proposal will not receive any further information or question responses.'
+INFO:__main__:Word count: 81, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 3, Y=206.5, Size=12.0, Bold=False
+INFO:__main__:Text: 'Background'
+INFO:__main__:Word count: 1, Ends with colon: False
+INFO:__main__:✓ CLASSIFIED AS: H2
+INFO:__main__:
+Page 3, Y=237.3, Size=11.0, Bold=False
+INFO:__main__:Text: 'First, some background on the ODL. For the last two years the Ontario Library Association has acted as a catalyst, bringing together the stakeholders needed to create the Ontario Digital Library (ODL). These stakeholders include Ontario’s 5000+ public libraries, university, college, and school libraries, as well as Ontario government ministries.'
+INFO:__main__:Word count: 50, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 3, Y=299.8, Size=11.0, Bold=False
+INFO:__main__:Text: 'Libraries that serve very different clientele recognize that by working together they can create seamless access to quality electronic library services. Through the ODL, students will be able to explore a topic at school, use the same child-safe resources after school (either at home or at a public library), enter college or university with a knowledge of how to use electronic resources that are still available and then, after graduation, continue to use these skills and resources at work or at home.'
+INFO:__main__:Word count: 82, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 3, Y=387.7, Size=11.0, Bold=False
+INFO:__main__:Text: 'We are moving into a period of convergence. With convergence we no longer have to license commercial products as individual libraries or institutions. We can work together to spend our money wisely. The provincial government has made this possible by working hard to provide all Ontarians with a stable, high-speed communications infrastructure. While there is still a great deal of work needed to improve this infrastructure, libraries are beginning to plan how best to exploit communications technology. We can reduce barriers to access and create the content infrastructure needed to support a knowledge society.'
+INFO:__main__:Word count: 94, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 3, Y=488.1, Size=11.0, Bold=False
+INFO:__main__:Text: 'The concept of an ODL is a key element in The Roadmap to Prosperity , a strategic plan to envision and attain Ontario’s economic goal prepared by the Ontario Jobs and Investment Board. The OJIB strategic plan recommends an electronic library to “connect students to new workplaces, new sources of information and applied learning opportunities”. The ODL will do that and much more. The ODL will connect students to electronic information, and will also leverage this investment to help connect all citizens to the electronic information they need as they make decisions, solve problems and enhance their quality of life.'
+INFO:__main__:Word count: 100, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 3, Y=589.4, Size=11.0, Bold=False
+INFO:__main__:Text: 'Libraries have long been a key delivery point for public services. The ODL will allow that delivery point to move closer to citizens, into the smallest of libraries and even into living rooms.'
+INFO:__main__:Word count: 33, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 3, Y=639.9, Size=11.0, Bold=False
+INFO:__main__:Text: 'Libraries have a long tradition of using a practical, consultative approach to solving problems, and of learning from others. The ODL is a very practical solution to various problems.'
+INFO:__main__:Word count: 29, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 3, Y=678.0, Size=11.0, Bold=False
+INFO:__main__:Text: 'Jurisdiction-wide digital libraries are very practical and very real. The ODL we propose is leading edge for Ontario but several jurisdictions have forged the path with collaborative digital libraries. We can learn from their experiences. For example, The Alberta Library (TAL)'
+INFO:__main__:Word count: 41, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 3, Y=731.2, Size=8.0, Bold=True
+INFO:__main__:Text: 'RFP: To Develop the Ontario Digital Library Business Plan March 2003 3333'
+INFO:__main__:Word count: 12, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 4, Y=70.2, Size=11.0, Bold=False
+INFO:__main__:Text: 'was incorporated in 1997 as a province-wide library consortium. TAL works collaboratively with its members to promote universal access to materials and resources in more than 250 public, post-secondary, special, government and regional libraries. Unlike ODL, TAL does not include elementary or secondary schools. However, the timeline and funding we are proposing for ODL is comparable to TAL‘s experience. TAL’s business planning took several years. TAL’s implementation plan was supported by 8 million dollars in provincially shared funding, spread over three years, later revised to 15 million dollars over 4 years. Not only is Alberta’s population 30% of Ontario’s, TAL does not include elementary or secondary schools as partners; it has 250 member libraries. ODL envisions universal access for all 10,000,000 Ontarians, with more than 5000 Ontario libraries as partners. Although ODL can learn from TAL’s practices, the scope of planning and implementing ODL is much larger than TAL.'
+INFO:__main__:Word count: 149, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 4, Y=234.6, Size=11.0, Bold=False
+INFO:__main__:Text: 'The ODL will be a partnership-based organization providing seamless electronic information services and resources to the citizens of Ontario. It will use local libraries as the entry point for common resources The ODL will recognize the unique responsibilities and needs of public libraries, school libraries, college and university libraries and special libraries. The ODL envisions a digital network of information resources, allowing members to collaborate when there is mutual benefit and to support the common mandates of local libraries.'
+INFO:__main__:Word count: 79, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 4, Y=322.6, Size=11.0, Bold=False
+INFO:__main__:Text: 'The principles which will define and guide the ODL are:'
+INFO:__main__:Word count: 10, Ends with colon: True
+INFO:__main__:✗ REJECTED: No heading characteristics found
+INFO:__main__:
+Page 4, Y=347.2, Size=11.0, Bold=True
+INFO:__main__:Text: 'Equitable access for all Ontarians:'
+INFO:__main__:Word count: 5, Ends with colon: True
+INFO:__main__:✓ CLASSIFIED AS: H3
+INFO:__main__:
+Page 4, Y=371.9, Size=11.0, Bold=False
+INFO:__main__:Text: 'We will bring consistent, high-quality electronic resources and services to 10 million Ontario citizens'
+INFO:__main__:Word count: 14, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 4, Y=409.1, Size=11.0, Bold=False
+INFO:__main__:Text: 'We will eliminate barriers to the access to information and create more consistent services for library clients.'
+INFO:__main__:Word count: 17, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 4, Y=446.4, Size=11.0, Bold=True
+INFO:__main__:Text: 'Shared decision-making and accountability:'
+INFO:__main__:Word count: 4, Ends with colon: True
+INFO:__main__:✓ CLASSIFIED AS: H3
+INFO:__main__:
+Page 4, Y=471.1, Size=11.0, Bold=False
+INFO:__main__:Text: 'We will facilitate consensus among members regarding ODL’s portfolio of electronic licenses and services'
+INFO:__main__:Word count: 14, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 4, Y=508.3, Size=11.0, Bold=False
+INFO:__main__:Text: 'We will balance the interests and realities of small and large as well as rich and poor communities and institutions.'
+INFO:__main__:Word count: 20, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 4, Y=545.6, Size=11.0, Bold=True
+INFO:__main__:Text: 'Shared governance structure:'
+INFO:__main__:Word count: 3, Ends with colon: True
+INFO:__main__:✓ CLASSIFIED AS: H3
+INFO:__main__:
+Page 4, Y=570.3, Size=11.0, Bold=False
+INFO:__main__:Text: 'We will share decision-making in order to enable the people we serve.'
+INFO:__main__:Word count: 12, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 4, Y=594.9, Size=11.0, Bold=False
+INFO:__main__:Text: 'We will work based on an underlying assumption of trust and synergy.'
+INFO:__main__:Word count: 12, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 4, Y=619.5, Size=11.0, Bold=True
+INFO:__main__:Text: 'Shared funding:'
+INFO:__main__:Word count: 2, Ends with colon: True
+INFO:__main__:✓ CLASSIFIED AS: H3
+INFO:__main__:
+Page 4, Y=644.2, Size=11.0, Bold=True
+INFO:__main__:Text: 'We will leverage provincial, institutional, and local dollars to realize economies of scale and put Ontario dollars to work for everyone .'
+INFO:__main__:Word count: 22, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 4, Y=681.6, Size=11.0, Bold=False
+INFO:__main__:Text: 'We will be willing to pool talents and dollars in order to provide common services that are truly greater than those that can be maintained by individual institutions.'
+INFO:__main__:Word count: 28, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 4, Y=731.2, Size=8.0, Bold=True
+INFO:__main__:Text: 'RFP: To Develop the Ontario Digital Library Business Plan March 2003 4444'
+INFO:__main__:Word count: 12, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 5, Y=70.3, Size=11.0, Bold=True
+INFO:__main__:Text: 'Local points of entry:'
+INFO:__main__:Word count: 4, Ends with colon: True
+INFO:__main__:✓ CLASSIFIED AS: H3
+INFO:__main__:
+Page 5, Y=95.6, Size=11.0, Bold=False
+INFO:__main__:Text: 'We will provide the licenses, infrastructure, services and support that enable local libraries to provide exceptional services to their clientele. ODL will focus on support, providing the underpinning, not overshadowing.'
+INFO:__main__:Word count: 30, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 5, Y=146.1, Size=11.0, Bold=False
+INFO:__main__:Text: 'Services envisioned for the ODL’s include:'
+INFO:__main__:Word count: 6, Ends with colon: True
+INFO:__main__:✗ REJECTED: No heading characteristics found
+INFO:__main__:
+Page 5, Y=171.4, Size=11.0, Bold=True
+INFO:__main__:Text: 'Access:'
+INFO:__main__:Word count: 1, Ends with colon: True
+INFO:__main__:✓ CLASSIFIED AS: H3
+INFO:__main__:
+Page 5, Y=184.1, Size=11.0, Bold=False
+INFO:__main__:Text: 'to the “deep” web (i.e. Commercial, purchased electronic services) to credible web sites and electronic resources to digital government information to local digital collections'
+INFO:__main__:Word count: 24, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 5, Y=247.4, Size=11.0, Bold=True
+INFO:__main__:Text: 'Guidance and Advice:'
+INFO:__main__:Word count: 3, Ends with colon: True
+INFO:__main__:✓ CLASSIFIED AS: H3
+INFO:__main__:
+Page 5, Y=260.0, Size=11.0, Bold=False
+INFO:__main__:Text: 'to support e-learning to support citizens, in real-time, as they try to use electronic resources to assist citizens as they use web-links'
+INFO:__main__:Word count: 22, Ends with colon: False
+INFO:__main__:✗ REJECTED: Too long (22 words > 15)
+INFO:__main__:
+Page 5, Y=297.9, Size=11.0, Bold=True
+INFO:__main__:Text: 'Training:'
+INFO:__main__:Word count: 1, Ends with colon: True
+INFO:__main__:✓ CLASSIFIED AS: H3
+INFO:__main__:
+Page 5, Y=310.6, Size=11.0, Bold=False
+INFO:__main__:Text: 'for library workers for the general public'
+INFO:__main__:Word count: 7, Ends with colon: False
+INFO:__main__:✗ REJECTED: No heading characteristics found
+INFO:__main__:
+Page 5, Y=348.5, Size=11.0, Bold=True
+INFO:__main__:Text: 'Provincial Purchasing & Licensing:'
+INFO:__main__:Word count: 4, Ends with colon: True
+INFO:__main__:✓ CLASSIFIED AS: H3
+INFO:__main__:
+Page 5, Y=361.1, Size=11.0, Bold=False
+INFO:__main__:Text: 'of electronic content on a consortia basis for all member libraries'
+INFO:__main__:Word count: 11, Ends with colon: False
+INFO:__main__:✗ REJECTED: No heading characteristics found
+INFO:__main__:
+Page 5, Y=386.5, Size=11.0, Bold=True
+INFO:__main__:Text: 'Technological Support:'
+INFO:__main__:Word count: 2, Ends with colon: True
+INFO:__main__:✓ CLASSIFIED AS: H3
+INFO:__main__:
+Page 5, Y=399.1, Size=11.0, Bold=False
+INFO:__main__:Text: 'of common standards for the preservation and archiving local digital content of a common interface to ODL resources and services that can be imbedded in local library web sites'
+INFO:__main__:Word count: 29, Ends with colon: False
+INFO:__main__:✗ REJECTED: Too long (29 words > 15)
+INFO:__main__:
+Page 5, Y=466.5, Size=11.0, Bold=False
+INFO:__main__:Text: 'What could the ODL really mean?'
+INFO:__main__:Word count: 6, Ends with colon: False
+INFO:__main__:✗ REJECTED: No heading characteristics found
+INFO:__main__:
+Page 5, Y=491.9, Size=11.0, Bold=True
+INFO:__main__:Text: 'For each Ontario citizen it could mean:'
+INFO:__main__:Word count: 7, Ends with colon: True
+INFO:__main__:✗ REJECTED: No heading characteristics found
+INFO:__main__:
+Page 5, Y=504.7, Size=11.0, Bold=False
+INFO:__main__:Text: 'One local point of entry to access seamless electronic library services and resources for their personal, educational and professional needs; Access to credible, high-quality, user-friendly electronic services through their community, school, or academic library; Confidence that the electronic services and sources they – and their children – are using are safe, valid, and bringing them both global and local perspectives; Electronic information and tools that enhance job skills and the learning experience'
+INFO:__main__:Word count: 72, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+Page 5, Y=630.4, Size=11.0, Bold=True
+INFO:__main__:Text: 'For each Ontario student it could mean:'
+INFO:__main__:Word count: 7, Ends with colon: True
+INFO:__main__:✗ REJECTED: No heading characteristics found
+INFO:__main__:
+Page 5, Y=643.2, Size=11.0, Bold=False
+INFO:__main__:Text: 'One local point of entry to quality, curriculum- based electronic information resources and services Connection to their individual educational environment, whether at the elementary, secondary or post-secondary levels'
+INFO:__main__:Word count: 28, Ends with colon: False
+INFO:__main__:✗ REJECTED: Too long (28 words > 15)
+INFO:__main__:
+Page 5, Y=731.2, Size=8.0, Bold=True
+INFO:__main__:Text: 'RFP: To Develop the Ontario Digital Library Business Plan March 2003 5555'
+INFO:__main__:Word count: 12, Ends with colon: False
+INFO:__main__:✗ REJECTED: Identified as sentence
+INFO:__main__:
+=== EXTRACTED TITLE ===
+The purpose of this Request for Proposal ( RFP ) is to invite firms and/or consultants to present a proposal for developing the business plan for the Ontario Digital Library (ODL). The ODL will deliver high-quality library electronic content to all Ontario residents in order to assist people as they learn, work, and enhance their quality of life. The business plan to be developed is to document and clearly communicate:
+
+=== FINAL OUTPUT ===
+{
+  "title": "The purpose of this Request for Proposal ( RFP ) is to invite firms and/or consultants to present a proposal for developing the business plan for the Ontario Digital Library (ODL). The ODL will deliver high-quality library electronic content to all Ontario residents in order to assist people as they learn, work, and enhance their quality of life. The business plan to be developed is to document and clearly communicate:",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Ontario\u2019s Libraries Working Together",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "March 21, 2003",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Ontario\u2019s Digital Library",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Summary",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Background",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Equitable access for all Ontarians:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Shared decision-making and accountability:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Shared governance structure:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Shared funding:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Local points of entry:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Access:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Guidance and Advice:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Training:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Provincial Purchasing & Licensing:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Technological Support:",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Appendix A:  ODL Envisioned Phases & Funding",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Phase I:  Business Planning",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Phase II: Implementing and Transitioning",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Phase III: Operating and Growing the ODL",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Appendix B: ODL Steering Committee Terms of Reference",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "3.1 Schools:",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "3.2 Universities:",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "3.3 Colleges:",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "3.4 Public libraries:",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "3.5 Ontario Library Association representative (ex-officio)  ( OLA to appoint one representative )",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "4.2 Desired characteristics for steering committee appointees include:",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "\u2022 Strategic thinkers;",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "\u2022 Committed to the concept of multi-sector partnerships;",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "\u2022 Knowledgeable about digital libraries and resources;",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "\u2022 Knowledgeable about government structures;",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "\u2022 Respected by their communities; influential;",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "\u2022 Able to take a consultative approach;",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "9.3 Conflict of Interest:",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "Appendix C: ODL\u2019s Envisioned Electronic Resources",
+      "page": 14
+    }
+  ]
+}
